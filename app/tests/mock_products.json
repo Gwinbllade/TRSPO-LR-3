@@ -1,0 +1,27 @@
+[
+  {
+    "name": "Laptop",
+    "cost": 999.99,
+    "category_id": 1
+  },
+  {
+    "name": "Smartphone",
+    "cost": 499.99,
+    "category_id": 1
+  },
+  {
+    "name": "T-shirt",
+    "cost": 19.99,
+    "category_id": 2
+  },
+  {
+    "name": "Jeans",
+    "cost": 49.99,
+    "category_id": 2
+  },
+  {
+    "name": "Novel",
+    "cost": 14.99,
+    "category_id": 3
+  }
+]

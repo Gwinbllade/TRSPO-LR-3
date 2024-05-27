@@ -1,0 +1,26 @@
+[
+  {
+    "username": "johndoe",
+    "email": "johndoe@gmail.com",
+    "hashed_password": "hashedpassword1",
+    "role": "admin"
+  },
+  {
+    "username": "janedoe",
+    "email": "janedoe@gmail.com",
+    "hashed_password": "hashedpassword2",
+    "role": "buyer"
+  },
+  {
+    "username": "bobsmith",
+    "email": "bobsmith@gmail.com",
+    "hashed_password": "hashedpassword3",
+    "role": "buyer"
+  },
+  {
+    "username": "alicejones",
+    "email": "alicejones@gmail.com",
+    "hashed_password": "hashedpassword4",
+    "role": "buyer"
+  }
+]
